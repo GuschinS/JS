@@ -1,0 +1,21 @@
+
+li,
+img {
+	cursor: pointer;
+}
+
+li:hover {
+	color: red;
+}
+
+li:active {
+	color: indigo;
+}
+
+#admin {
+	display: inline-block;
+	width: 300px;
+}
+form {
+	float:right;
+}
